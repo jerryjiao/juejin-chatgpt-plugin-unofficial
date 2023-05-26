@@ -1,0 +1,3 @@
+name = "juejin-chatgpt-plugin-unofficial"
+main = "src/index.ts"
+compatibility_date = "2023-04-07"
